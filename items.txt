@@ -1,0 +1,5 @@
+Chicken Chop,10.90
+Lamb Chop,19.50
+Agli Aglio,15.50
+Cheezy French Fries,10.00
+Burger,12.30
