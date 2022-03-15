@@ -195,7 +195,7 @@ public class Cashierframe extends JFrame {
 		mntmNewMenuItem_2.setIcon(new ImageIcon(Cashierframe.class.getResource("/main/logo/about.png")));
 		mnNewMenu_1.add(mntmNewMenuItem_2);
 		contentPane = new JPanel();
-		contentPane.setBackground(new Color(70, 18, 32));
+		contentPane.setBackground(new Color(0, 128, 128));
 		contentPane.setBorder(null);
 		setContentPane(contentPane);
 

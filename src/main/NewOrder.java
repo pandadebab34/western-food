@@ -134,7 +134,7 @@ public class NewOrder extends JFrame {
 		panel.setBackground(new Color(0, 0, 0));
 
 		JPanel panel_1 = new JPanel();
-		panel_1.setBackground(new Color(104, 176, 171));
+		panel_1.setBackground(new Color(138, 43, 226));
 
 		JPanel panel_2 = new JPanel();
 		panel_2.setBackground(new Color(250, 240, 230));
